@@ -1,0 +1,6 @@
+H:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #5\Programming Exercises\SwimmingWaterTemperature\SwimmingWaterTemperature\bin\Debug\SwimmingWaterTemperature.exe.config
+H:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #5\Programming Exercises\SwimmingWaterTemperature\SwimmingWaterTemperature\bin\Debug\SwimmingWaterTemperature.exe
+H:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #5\Programming Exercises\SwimmingWaterTemperature\SwimmingWaterTemperature\bin\Debug\SwimmingWaterTemperature.pdb
+H:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #5\Programming Exercises\SwimmingWaterTemperature\SwimmingWaterTemperature\obj\Debug\SwimmingWaterTemperature.csprojAssemblyReference.cache
+H:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #5\Programming Exercises\SwimmingWaterTemperature\SwimmingWaterTemperature\obj\Debug\SwimmingWaterTemperature.exe
+H:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #5\Programming Exercises\SwimmingWaterTemperature\SwimmingWaterTemperature\obj\Debug\SwimmingWaterTemperature.pdb
